@@ -1,0 +1,14 @@
+C:\Users\pplprof\Desktop\Aula2\VirtualLibraryApi\obj\Debug\netcoreapp2.1\VirtualLibraryApi.csprojAssemblyReference.cache
+C:\Users\pplprof\Desktop\Aula2\VirtualLibraryApi\obj\Debug\netcoreapp2.1\VirtualLibraryApi.csproj.CoreCompileInputs.cache
+C:\Users\pplprof\Desktop\Aula2\VirtualLibraryApi\obj\Debug\netcoreapp2.1\VirtualLibraryApi.RazorAssemblyInfo.cache
+C:\Users\pplprof\Desktop\Aula2\VirtualLibraryApi\obj\Debug\netcoreapp2.1\VirtualLibraryApi.RazorAssemblyInfo.cs
+C:\Users\pplprof\Desktop\Aula2\VirtualLibraryApi\obj\Debug\netcoreapp2.1\VirtualLibraryApi.AssemblyInfoInputs.cache
+C:\Users\pplprof\Desktop\Aula2\VirtualLibraryApi\obj\Debug\netcoreapp2.1\VirtualLibraryApi.AssemblyInfo.cs
+C:\Users\pplprof\Desktop\Aula2\VirtualLibraryApi\bin\Debug\netcoreapp2.1\VirtualLibraryApi.deps.json
+C:\Users\pplprof\Desktop\Aula2\VirtualLibraryApi\bin\Debug\netcoreapp2.1\VirtualLibraryApi.runtimeconfig.json
+C:\Users\pplprof\Desktop\Aula2\VirtualLibraryApi\bin\Debug\netcoreapp2.1\VirtualLibraryApi.runtimeconfig.dev.json
+C:\Users\pplprof\Desktop\Aula2\VirtualLibraryApi\bin\Debug\netcoreapp2.1\VirtualLibraryApi.dll
+C:\Users\pplprof\Desktop\Aula2\VirtualLibraryApi\bin\Debug\netcoreapp2.1\VirtualLibraryApi.pdb
+C:\Users\pplprof\Desktop\Aula2\VirtualLibraryApi\obj\Debug\netcoreapp2.1\VirtualLibraryApi.RazorTargetAssemblyInfo.cache
+C:\Users\pplprof\Desktop\Aula2\VirtualLibraryApi\obj\Debug\netcoreapp2.1\VirtualLibraryApi.dll
+C:\Users\pplprof\Desktop\Aula2\VirtualLibraryApi\obj\Debug\netcoreapp2.1\VirtualLibraryApi.pdb
