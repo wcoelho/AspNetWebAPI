@@ -7,7 +7,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Swashbuckle.AspNetCore.Swagger;
 using TodoApi.Models;
 
-namespace VirtualLibraryApi
+namespace AspNetWebAPI
 {
     public class Startup
     {

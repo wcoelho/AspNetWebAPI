@@ -1,0 +1,14 @@
+E:\Library\Desktop\PosPuc\Projetos\AspNetWebAPI\bin\Debug\netcoreapp2.1\AspNetWebAPI.deps.json
+E:\Library\Desktop\PosPuc\Projetos\AspNetWebAPI\bin\Debug\netcoreapp2.1\AspNetWebAPI.runtimeconfig.json
+E:\Library\Desktop\PosPuc\Projetos\AspNetWebAPI\bin\Debug\netcoreapp2.1\AspNetWebAPI.runtimeconfig.dev.json
+e:\Library\Desktop\PosPuc\Projetos\AspNetWebAPI\bin\Debug\netcoreapp2.1\AspNetWebAPI.dll
+e:\Library\Desktop\PosPuc\Projetos\AspNetWebAPI\bin\Debug\netcoreapp2.1\AspNetWebAPI.pdb
+e:\Library\Desktop\PosPuc\Projetos\AspNetWebAPI\obj\Debug\netcoreapp2.1\AspNetWebAPI.csprojAssemblyReference.cache
+e:\Library\Desktop\PosPuc\Projetos\AspNetWebAPI\obj\Debug\netcoreapp2.1\AspNetWebAPI.csproj.CoreCompileInputs.cache
+e:\Library\Desktop\PosPuc\Projetos\AspNetWebAPI\obj\Debug\netcoreapp2.1\AspNetWebAPI.RazorAssemblyInfo.cache
+e:\Library\Desktop\PosPuc\Projetos\AspNetWebAPI\obj\Debug\netcoreapp2.1\AspNetWebAPI.RazorAssemblyInfo.cs
+e:\Library\Desktop\PosPuc\Projetos\AspNetWebAPI\obj\Debug\netcoreapp2.1\AspNetWebAPI.AssemblyInfoInputs.cache
+e:\Library\Desktop\PosPuc\Projetos\AspNetWebAPI\obj\Debug\netcoreapp2.1\AspNetWebAPI.AssemblyInfo.cs
+e:\Library\Desktop\PosPuc\Projetos\AspNetWebAPI\obj\Debug\netcoreapp2.1\AspNetWebAPI.RazorTargetAssemblyInfo.cache
+e:\Library\Desktop\PosPuc\Projetos\AspNetWebAPI\obj\Debug\netcoreapp2.1\AspNetWebAPI.dll
+e:\Library\Desktop\PosPuc\Projetos\AspNetWebAPI\obj\Debug\netcoreapp2.1\AspNetWebAPI.pdb

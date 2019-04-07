@@ -71,6 +71,28 @@ namespace TodoApi.Controllers
             return NoContent();
         }
 
+        
+        // PATCH: api/Todo/5
+        [HttpPatch("{id}")]
+        public async Task<ActionResult<TodoItem>> PatchTodoItem(long id, TodoItem item)
+        {
+            var todoItem = await _context.TodoItems.FindAsync(id);
+
+            if (todoItem==null)
+            {
+                return NotFound();   
+                             
+            } else {
+                var name = (item.Name!=null)? item.Name : todoItem.Name;
+                todoItem.Name = name;
+            }
+
+            _context.Entry(todoItem).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+
+            return todoItem;
+        }
+
         // DELETE: api/Todo/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteTodoItem(long id)

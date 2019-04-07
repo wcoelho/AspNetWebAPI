@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/VirtualLibraryApi.csproj"
+                "${workspaceFolder}/AspNetWebAPI.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
