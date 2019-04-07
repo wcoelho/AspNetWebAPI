@@ -1,13 +1,9 @@
-# Virtual Library API
-Implementação de uma API para a gestão de uma livraria virtual.
-
-## Autores  
-* Dalmo Melo
-* Walter Coelho  
+# Tutorial ASP.NET Web API  
+Passo a passo para a criação de uma aplicação com uma API mínima utilizando a tecnologia ASP.NET Core 2.1, com publicação através do Swagger e plugin Swashbuckle.
 
 ## End Points  
-* GET /api/Todo = Recupera todos os items
-* GET /api/Todo/{id} = Recupera o item identificado pelo id
+* GET /api/Todo = Recupera todos os items.  
+* GET /api/Todo/{id} = Recupera o item identificado pelo id.  
 * POST /api/Todo = Cria novo item.  
 Payload:  
 {  
@@ -21,7 +17,8 @@ Payload:
   "name":"String",  
   "isComplete":boolean  
 }  
-* DELETE /api/Todo/{id} = Apaga registro existente.
+* DELETE /api/Todo/{id} = Apaga registro existente.  
 
 ## Documentação  
+Estando a aplicação em execução, acesse a URL:  
 https://localhost:5001/swagger/v1/swagger.json
