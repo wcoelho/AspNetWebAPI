@@ -28,7 +28,7 @@ namespace AspNetWebAPI
              // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new Info { Title = "Virtual Library API", Version = "v1" });
+                c.SwaggerDoc("v1", new Info { Title = "ASP NET Web API", Version = "v1" });
             });
         }
 
